@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Regionale Omroepen",RTV Noord
+https://media.rtvnoord.nl/icecast/rtvnoord/radio
+
+#EXTINF:-1 group-title="Regionale Omroepen",Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3
+
+#EXTINF:-1 group-title="Regionale Omroepen",RTV Drenthe
+https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio
+
+#EXTINF:-1 group-title="Regionale Omroepen",RTV Oost
+https://streams.rtvoost.nl/audio/oost/mp3
+
+#EXTINF:-1 group-title="Regionale Omroepen",Omroep Flevoland
+https://stream.omroepflevoland.nl/icecast/omroepflevoland/stream1
+
+#EXTINF:-1 group-title="Regionale Omroepen",Omroep Gelderland
+https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland
+
+#EXTINF:-1 group-title="Regionale Omroepen",Omroep West
+https://liveradio.omroepwest.nl/
+
+#EXTINF:-1 group-title="Regionale Omroepen",RTV Utrecht
+https://media.rtvutrecht.nl/radiomutrecht-sb-mp3
+
+#EXTINF:-1 group-title="Regionale Omroepen",RTV Rijnmond
+http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+
+#EXTINF:-1 group-title="Regionale Omroepen",Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio
+
+#EXTINF:-1 group-title="Regionale Omroepen",Omroep Brabant
+http://av.omroepbrabant.nl/icecast/omroepbrabant/mp3
+
+#EXTINF:-1 group-title="Regionale Omroepen",L1 Radio
+https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3
