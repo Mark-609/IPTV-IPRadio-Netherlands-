@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,NPO Radio 1
+https://icecast.omroep.nl/radio1-bb-mp3
+#EXTINF:-1,NPO Radio 2
+https://icecast.omroep.nl/radio2-bb-mp3
+#EXTINF:-1,NPO 3FM
+https://icecast.omroep.nl/3fm-bb-mp3
+#EXTINF:-1,NPO Klassiek
+https://icecast.omroep.nl/radio4-bb-mp3
+#EXTINF:-1,NPO Radio 5
+https://icecast.omroep.nl/radio5-bb-mp3
+#EXTINF:-1,NPO Soul & Jazz
+https://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1,NPO Sterren NL
+https://icecast.omroep.nl/radio2-sterrennl-mp3
+#EXTINF:-1,NPO Campus
+https://icecast.omroep.nl/3fm-serioustalent-mp3
+#EXTINF:-1,FunX
+https://icecast.omroep.nl/funx-bb-mp3
