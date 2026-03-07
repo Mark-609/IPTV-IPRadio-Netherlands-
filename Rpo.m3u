@@ -22,7 +22,7 @@ https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland
 https://liveradio.omroepwest.nl/
 
 #EXTINF:-1 group-title="Regionale Omroepen",RTV Utrecht
-https://media.rtvutrecht.nl/radiomutrecht-sb-mp3
+https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3
 
 #EXTINF:-1 group-title="Regionale Omroepen",RTV Rijnmond
 http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
@@ -35,3 +35,4 @@ http://av.omroepbrabant.nl/icecast/omroepbrabant/mp3
 
 #EXTINF:-1 group-title="Regionale Omroepen",L1 Radio
 https://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3
+
