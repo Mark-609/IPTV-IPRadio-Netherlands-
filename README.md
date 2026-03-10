@@ -36,12 +36,12 @@ https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/
 
 ---
 
-## Regional Public Radio (RPO)
+## Regional Public Radio (RPR)
 
 **Copyable Link**
 
 ```
-https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/Rpo.m3u
+https://raw.githubusercontent.com/Mark-609/IPTV-IPRadio-Netherlands-/refs/heads/main/RPR.m3u
 ```
 
 ---
